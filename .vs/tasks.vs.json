@@ -5,6 +5,11 @@
       "taskLabel": "tarea-belleza",
       "appliesTo": "/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "tarea-belleza",
+      "appliesTo": "/",
+      "type": "launch"
     }
   ]
 }
